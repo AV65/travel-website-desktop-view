@@ -14,7 +14,7 @@
 ## Overview
 This project is a responsive travel landing page designed for desktop view. It highlights visually appealing destinations and showcases the travel agency's offerings in an elegant and modern layout. The site is divided into three main sections and includes a footer.
 ## Live Demo
-- [[Live Demo](https://travel-website-dxns.onrender.com)]
+- [[Live Demo](https://travel-website-desktop-view-c4zq.onrender.com)]
 ## Project Features
 
 ### Section 1: Header
@@ -82,4 +82,4 @@ Contact: [salihiyaha4@gmail.com]
  [[Github Profile](https://github.com/AV65)]
 
  ## License
- This project is licensed under the MIT License. You are free to use, modify, and distribute this project in accordance with the terms of the license.
+ 
