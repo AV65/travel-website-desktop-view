@@ -7,6 +7,7 @@ body {
 
 :root{
     --whitecolor: #FFFFFF;
+    overflow-x: hidden;
     background-color: whitesmoke;
 }
 #header,#sec3,footer{
@@ -320,11 +321,10 @@ span{
 
 }
 .watch-documentation{
-    font-size: 70pxx;
+    font-size: 200%;
 }
 .video-class{
     margin-left: -2px;
-    transform: rotate(180deg);
     width: 100%;
 }
  /* #best-offer{
@@ -609,8 +609,6 @@ a{
 
     }
     .video-class{
-        margin-left: -20px;
-        transform: rotate(180deg);
         width: 100%;
     }
     .CTAprimer {
